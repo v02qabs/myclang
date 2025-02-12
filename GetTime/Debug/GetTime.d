@@ -1,0 +1,1 @@
+GetTime.o: ../GetTime.c
